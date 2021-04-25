@@ -52,7 +52,7 @@
 
 # Greenplum 常见问题汇总
 
-## relation "" contains more than "max_fsm_pages" pages with useful free space
+## 1、relation "" contains more than "max_fsm_pages" pages with useful free space
 
 1、[大量使用临时表带来的系统表如pg_attribute膨胀问题](https://billtian.github.io/digoal.blog/2016/06/15/01.html)
 

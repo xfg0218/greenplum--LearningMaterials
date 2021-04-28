@@ -49,6 +49,11 @@
 
 # Greenplum 巡检相关
 
+# Greenplum 内核相关
+
+1、[Brin Index在Greenplum 7中的理论与实现](https://www.modb.pro/event/301)
+
+
 
 # Greenplum 常见问题汇总
 

@@ -63,7 +63,7 @@
 
 2、[Greenplum数据库的vacuum操作与max_fsm_pages参数的关系](http://www.voidcn.com/article/p-ankrklkc-mm.html)
 
-##  ERROR:  Unable to get sizes from segments (dbsize.c:92)
+## 2、 ERROR:  Unable to get sizes from segments (dbsize.c:92)
 	
 	1、检查master和每台segments上的配置信息select * from gp_segment_configuration;
 	

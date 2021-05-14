@@ -53,6 +53,11 @@
 
 1、[Brin Index在Greenplum 7中的理论与实现](https://www.modb.pro/event/301)
 
+2、[Brin Index在Greenplum 7中的理论与实践 之 堆表上的Brin](https://mp.weixin.qq.com/s/37YK49exjEY7VUg26-GOHg)
+
+3、[Brin Index在Greenplum 7中的理论与实践 之AO表上的Brin](https://mp.weixin.qq.com/s/eApicVE1f1E0uVco6SSINg)
+
+4、[一致性哈希及其在Greenplum中的应用](https://mp.weixin.qq.com/s/qIgIx0KcHw5OO_VJWdBL3A)
 
 
 # Greenplum 常见问题汇总

@@ -83,3 +83,12 @@
 	1、检查master和每台segments上的配置信息select * from gp_segment_configuration;
 	
 	2、修改成语master一致即可
+
+## 3、Couldn't fork a new process -- Cannot allocate memory
+
+1、[Couldn't fork a new process -- Cannot allocate memory](https://blog.csdn.net/vic_qxz/article/details/82818686)
+
+
+
+
+

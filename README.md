@@ -27,6 +27,9 @@
 
 # Greenplum 优化相关
 
+1、[使用analyze收集统计信息的正确姿势](https://mp.weixin.qq.com/s/RVN8YFcqWNGht6N32UQW0g)
+
+
 
 # Greenplum 性能相关
 

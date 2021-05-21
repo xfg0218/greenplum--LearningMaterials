@@ -23,7 +23,14 @@
 
 # Greenplum 配置相关
 
+
+
 # Greenplum 优化相关
+
+
+# Greenplum 性能相关
+
+1、[Greenplum实现高性能大容量数据仓库之ScaleFlux卡](https://mp.weixin.qq.com/s/4ipsaFPQ5yLBS7dm0QHZTw)
 
 
 

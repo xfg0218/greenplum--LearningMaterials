@@ -1,6 +1,16 @@
 # greenplum--LearningMaterials
 	主要介绍作者在网上收集相关的Greenplum想的学习资料，如果大家有好的资料欢迎大家分享
 	
+[toc]
+
+---
+
+# Greenplum 迁移工具相关
+
+1、[异构数据库数据与结构同步工具dbswitch介绍](https://gitee.com/inrgihc/dbswitch#%E5%BC%82%E6%9E%84%E6%95%B0%E6%8D%AE%E5%BA%93%E6%95%B0%E6%8D%AE%E4%B8%8E%E7%BB%93%E6%9E%84%E5%90%8C%E6%AD%A5%E5%B7%A5%E5%85%B7)
+
+2、[DataX 离线数据同步工具/平台](https://github.com/alibaba/DataX)
+
 
 # Greenplum 新版本相关
 
@@ -30,10 +40,11 @@
 1、[使用analyze收集统计信息的正确姿势](https://mp.weixin.qq.com/s/RVN8YFcqWNGht6N32UQW0g)
 
 
-
 # Greenplum 性能相关
 
 1、[Greenplum实现高性能大容量数据仓库之ScaleFlux卡](https://mp.weixin.qq.com/s/4ipsaFPQ5yLBS7dm0QHZTw)
+
+
 
 
 

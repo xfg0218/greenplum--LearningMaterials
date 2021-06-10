@@ -11,11 +11,15 @@
 
 2、[DataX 离线数据同步工具/平台](https://github.com/alibaba/DataX)
 
+3、[OGG For Oracle To PostgreSQL](https://www.cnblogs.com/lottu/p/11466112.html)
+
+
 # Greenplum 运维工具
 
 1、[基于ansible自动化在centos7上安装Greenplum](https://github.com/tangyibo/greenplum_installer)
 
 2、[Greenplum DBA常用运营SQL](https://github.com/faisaltheparttimecoder/Greenplum)
+
 
 
 # Greenplum 新版本相关

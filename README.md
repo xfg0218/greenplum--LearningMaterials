@@ -54,7 +54,7 @@
 
 1、[Greenplum实现高性能大容量数据仓库之ScaleFlux卡](https://mp.weixin.qq.com/s/4ipsaFPQ5yLBS7dm0QHZTw)
 
-
+2、[Greenplum的混合负载之路](https://mp.weixin.qq.com/s/8qSfAQVK5saO1isLfI4Iug)
 
 
 

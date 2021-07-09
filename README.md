@@ -79,6 +79,9 @@
 
 # Greenplum 插件相关
 
+1、[基于fdw的跨Greenplum集群数据库查询实现](https://mp.weixin.qq.com/s/9Th62Im-yATvEHjJjDJFDw)
+
+2、[基于Greenplum构建下一代数据分析平台](https://mp.weixin.qq.com/s/8-8iVwuYBcSFMa0oQkncHA)
 
 # Greenplum 巡检相关
 
